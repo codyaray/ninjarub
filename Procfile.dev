@@ -1,0 +1,1 @@
+web: shotgun --env ${RACK_ENV:-development}
